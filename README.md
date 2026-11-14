@@ -73,62 +73,6 @@ fun_fact:       I am funny 😜
 
 <br/>
 
-<!-- ═══════════════════════════  PRIVATE  ═══════════════════════════ -->
-## 🔐 The private vault: real-estate &amp; CRM suite
-
-<sub>These are client and production projects, so the code is private. 🔒 Happy to walk you through them; just reach out.</sub>
-
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🏙️ Skyline CRM</h3>
-      <sub><code>skyline-crm</code></sub>
-      <p>A real-estate CRM for leads, follow-ups and the sales pipeline, all in one dashboard.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/🔒_Private-2D2D2D?style=flat-square" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🏢 Godrej NexSpace</h3>
-      <sub><code>godrej-nexspace</code></sub>
-      <p>A modern property showcase platform with project pages, listings and enquiry flows.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/🔒_Private-2D2D2D?style=flat-square" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🗝️ Keystone Admin</h3>
-      <sub><code>keystone-with-admin-superadmin-login</code></sub>
-      <p>An admin panel with role-based access: separate <b>Admin</b> and <b>Super-Admin</b> logins and permissions.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/🔒_Private-2D2D2D?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🌍 PropertyWorld18</h3>
-      <sub><code>propertyworld18</code></sub>
-      <p>A property listing portal: browse, search and filter homes and projects.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/🔒_Private-2D2D2D?style=flat-square" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🏗️ BBR Realty+</h3>
-      <sub><code>bbr-realty-platform-enhanced</code></sub>
-      <p>An enhanced realty platform with a refreshed UI, richer listings and a smoother buyer journey.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/🔒_Private-2D2D2D?style=flat-square" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🧩 Realty Core</h3>
-      <sub><code>realty-platform-common-project</code></sub>
-      <p>The shared foundation: common components and modules reused across my realty platforms.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/🔒_Private-2D2D2D?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
 ## 🧱 Building materials
 
